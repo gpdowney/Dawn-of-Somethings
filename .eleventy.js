@@ -31,6 +31,6 @@ module.exports = function(eleventyConfig) {
       output: "_site"
     },
     // set path to subpage for <base> plugin
-    pathPrefix: "/dawn/"
+    pathPrefix: process.env.NODE_ENV === "production" ? "/dawn" : "",
   };
 };
