@@ -1,6 +1,5 @@
 ---
 title: Against Equality
-layout: base
 prev: /evolutionism
 next: /domination
 ---

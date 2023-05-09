@@ -1,6 +1,5 @@
 ---
 title: Paleolithic
-layout: base
 prev: /bureaucracy
 next: /fertile-crescents
 ---

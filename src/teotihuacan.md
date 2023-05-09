@@ -1,6 +1,5 @@
 ---
 title: Teotihuacan
-layout: base
 prev: /hopewell
 next: /maya
 ---

@@ -1,6 +1,5 @@
 ---
 title: Chavín
-layout: base
 prev: /olmec
 next: /teotihuacan
 ---

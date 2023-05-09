@@ -1,6 +1,5 @@
 ---
 title: Inca
-layout: base
 prev: /inca
 next: /pacific
 ---

@@ -1,6 +1,5 @@
 ---
 title: Cahokia
-layout: base
 prev: /theoloel
 next: /bali
 ---

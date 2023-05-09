@@ -1,6 +1,5 @@
 ---
 title: Origins of Property
-layout: base
 prev: /domination
 next: /slavery
 ---

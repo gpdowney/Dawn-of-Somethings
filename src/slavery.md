@@ -1,6 +1,5 @@
 ---
 title: Slavery
-layout: base
 prev: /domination
 next: /sovereignty
 ---

@@ -1,6 +1,5 @@
 ---
 title: home
-layout: base
 prev: /timeline
 next: /diverse
 ---

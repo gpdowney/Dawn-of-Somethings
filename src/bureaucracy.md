@@ -1,6 +1,5 @@
 ---
 title: Bureaucracy
-layout: base
 prev: /charisma
 next: /uruk
 ---

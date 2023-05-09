@@ -1,6 +1,5 @@
 ---
 title: Maya
-layout: base
 prev: /teotihuacan
 next: /theoloel
 ---

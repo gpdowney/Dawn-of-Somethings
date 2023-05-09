@@ -1,6 +1,5 @@
 ---
 title: Pharaonic Egypt
-layout: base
 prev: /indus-valley
 next: /olmec
 ---

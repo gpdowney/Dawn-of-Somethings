@@ -1,6 +1,5 @@
 ---
 title: "Agricultural Revolution"
-layout: base
 prev: /diverse
 next: /scale
 ---

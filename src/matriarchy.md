@@ -1,6 +1,5 @@
 ---
 title: Matriarchy
-layout: base
 prev: /eccentricity
 next: /schismogensis
 ---

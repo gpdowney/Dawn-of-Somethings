@@ -1,6 +1,5 @@
 ---
 title: Domination
-layout: base
 prev: /equality
 next: /slavery
 ---

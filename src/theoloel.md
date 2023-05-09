@@ -1,6 +1,5 @@
 ---
 title: Théoloël
-layout: base
 prev: /maya
 next: /cahokia
 ---

@@ -1,6 +1,5 @@
 ---
 title: Cucuteni-Tripolye
-layout: base
 prev: /uruk
 next: /indus-valley
 ---

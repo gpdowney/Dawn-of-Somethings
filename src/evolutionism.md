@@ -1,6 +1,5 @@
 ---
 title: Evolutionism
-layout: base
 prev: /indigenous-critique
 next: /equality
 ---

@@ -1,6 +1,5 @@
 ---
 title: Diverse Past
-layout: base
 prev: /live-differently
 next: /agricultural-revolution
 ---

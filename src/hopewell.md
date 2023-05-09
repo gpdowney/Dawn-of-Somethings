@@ -1,6 +1,5 @@
 ---
 title: Hopewell
-layout: base
 prev: /chavin
 next: /teotihuacan
 ---

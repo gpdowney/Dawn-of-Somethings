@@ -1,6 +1,5 @@
 ---
 title: Indus Valley Civilization
-layout: base
 prev: /cucuteni-tripolye
 next: /egypt
 ---

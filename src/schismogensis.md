@@ -1,6 +1,5 @@
 ---
 title: Schismogensis
-layout: base
 prev: /matriarchy
 next: /freedom
 ---

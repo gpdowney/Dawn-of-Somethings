@@ -1,6 +1,5 @@
 ---
 title: 3 Freedoms
-layout: base
 prev: /schismogensis
 next: /enlightenment
 ---

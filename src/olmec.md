@@ -1,6 +1,5 @@
 ---
 title: Olmec
-layout: base
 prev: /egypt
 next: /chavin
 ---

@@ -1,6 +1,5 @@
 ---
 title: Seasonality
-layout: base
 prev: /scale
 next: /eccentricity
 ---

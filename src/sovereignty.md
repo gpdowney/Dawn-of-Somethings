@@ -1,6 +1,5 @@
 ---
 title: Sovereignty
-layout: base
 prev: /slavery
 next: /charisma
 ---

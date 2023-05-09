@@ -1,6 +1,5 @@
 ---
 title: Fertile Crescents
-layout: base
 prev: /paleolithic-revolution
 next: /uruk
 ---

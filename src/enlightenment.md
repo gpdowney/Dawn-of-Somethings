@@ -1,6 +1,5 @@
 ---
 title: Enlightenment started in America
-layout: base
 prev: /freedom
 next: /indigenous-critique
 ---

@@ -1,6 +1,5 @@
 ---
 title: Charisma
-layout: base
 prev: /sovereignty
 next: /bureaucracy
 ---

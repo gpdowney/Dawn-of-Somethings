@@ -1,6 +1,5 @@
 ---
 title: Paleolithic
-layout: base
 prev: /fertile-crescents
 next: /cucuteni-tripolye
 ---

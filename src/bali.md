@@ -1,6 +1,5 @@
 ---
 title: Bali
-layout: base
 prev: /cahokia
 next: /aztec
 ---

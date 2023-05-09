@@ -1,6 +1,5 @@
 ---
 title: Eccentricity
-layout: base
 prev: /seasonality
 next: /matriarchy
 ---

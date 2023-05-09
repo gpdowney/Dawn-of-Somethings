@@ -1,6 +1,5 @@
 ---
 title: Pacific Americans
-layout: base
 prev: /inca
 next: /
 ---
@@ -49,7 +48,7 @@ Kwakiutl elites would never chop wood.
 
 In contrast, Californians had few slaves and made chopping wood for the sauna a sacred duty.
 
-Ethnographer: Franz Boas'.
+Ethnographer: Franz Boas.
 
 ## Yurok-Karin-Hupa had few slaves
 

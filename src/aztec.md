@@ -1,6 +1,5 @@
 ---
 title: Aztec
-layout: base
 prev: /bali
 next: /inca
 ---

@@ -1,6 +1,5 @@
 ---
 title: Indigenous Critique
-layout: base
 prev: /enlightenment
 next: /evolutionism
 ---

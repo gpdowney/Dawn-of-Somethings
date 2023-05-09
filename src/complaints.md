@@ -1,6 +1,5 @@
 ---
 title: complaints
-layout: base
 prev: /about
 next: /timeline
 ---
