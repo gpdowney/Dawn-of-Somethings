@@ -19,7 +19,12 @@
     {{ content | safe }}
   </main>
   <footer>
-    <p>Feedback? <a href='mailto:dawn@gpdetc.org'>dawn@gpdetc.org</a></p>
+    {% if page.fileSlug === '' %}
+      <p><a href='https://github.com/gpdowney/Dawn-of-Somethings/blob/main/src/index.md'>Suggest edits to this page</a></p>
+    {% else %}
+      <p><a href='https://github.com/gpdowney/Dawn-of-Somethings/blob/main/src/{{ page.fileSlug }}.md'>Suggest edits to this page</a></p>
+    {% endif %}
+    <p>More Feedback? <a href='mailto:dawn@gpdetc.org'>dawn@gpdetc.org</a></p>
   </footer>
 </body>
 </html>
