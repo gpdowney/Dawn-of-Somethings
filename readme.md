@@ -36,7 +36,7 @@ I'm sharing them with you in the hopes of making the fresh and challenging ideas
 Like most readers of the *Dawn of Everything*, I'm not an expert on anthropology or archeology.
 If you think anything here is incorrect, whether you think I've misunderstood Graeber and Wengrow, or whether you think Davids are wrong, please let me know.
 
-- There's a link at the bottom of each page that will take you to [GitHub](https://github.com/gpdowney/Dawn-of-Somethings), where you can suggest edits.
+- There's a link at the bottom of each page that will take you to the markdown file associated with that page, where you can suggest edits.
 - Or you can email <dawn@gpdetc.org> with any feedback, including additions, corrections, compliments, or criticisms.
 
 If you'd like to also enjoy the benefits of making some notes,
@@ -46,5 +46,3 @@ Incidentally, if you are David Wengrow...
 
 1. Thank you for writing this amazing book.
 1. I would be thrilled to collaborate on an official abridged edition.
-
-### Next: [My complaints about the Dawn of Everything](/complaints).
