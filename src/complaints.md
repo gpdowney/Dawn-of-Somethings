@@ -4,7 +4,7 @@ prev: /about
 next: /live-differently
 ---
 
-# Complaints about *the Dawn of Everything*
+# My complaints about *the Dawn of Everything*
 
 As you can hopefully tell from these notes, I was deeply inspired by *the Dawn of Everything*.
 
