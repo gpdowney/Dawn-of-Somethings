@@ -9,13 +9,13 @@ next: /seasonality
 Big societies can be simple and egalitarian.
 Small societies can be complex and hierarchical.
 
-Dense and successful civilizations need to be violent or hierarchical:
+Dense and successful civilizations don't need to be violent or hierarchical:
 
 - [Uruk](/uruk) in Mesopotamia lacked walls and signs of hierarchy (until it was taken over by their former colonies).
 - Mohenjo-daro of the [Indus Valley Civilization](/indus-valley) was hierarchical but peaceful; there are no signs of a warrior class until 1000 years later.
 - In the Buddha's time (564 BCE), many South Asian cities were led by democratic councils called sangas that operated by consensus.
-- Taosi in the Jinnan Basin of China had the first known revolution (2000 BCE). They trashed the palace and lived in relative prosperity for the next 200 years.
-- Around 300 CE, [Teotihuacans](/teotihuacan) revolted. They stopped building pyramids and started building public housing instead.
+- Taosi in the Jinnan Basin of China had the first known revolution (circa 2000 BCE). They trashed the palace and lived in relative prosperity for the next 200 years.
+- Around 300 CE, [Teotihuacans](/teotihuacan) revolted. The people stopped building pyramids and started building public housing instead.
 - [Bali's](/bali) seemingly rigid caste system mixes formal hierarchy with informal equality.
 
 ## Cities weren't a shock

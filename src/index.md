@@ -48,9 +48,9 @@ Culture | Region | Circa
 [Bali](/bali) | East Asia | 1000 CE
 [Aztec](/aztec) | Central America | 1150 CE to Cortés
 [Inca](/inca) | South America | 1200 CE to Pizzaro
-[Americans of the Pacific Coast](/pacific) | North America | 1900s
+[Americans of the Pacific Coast](/pacific) | North America | 1900
 
-Note: Many of these are living cultures. The times given here are the ones that Graeber and Wengrow discuss.
+Note: Many of these are living cultures. The times given here are the periods that Graeber and Wengrow discuss.
 
 ## Additional Commentary
 

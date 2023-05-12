@@ -8,7 +8,7 @@ next: /sovereignty
 
 All exploiters--bosses, landlords, kings, husbands, cannibals--consume the lives of the people they exploit.
 
-[[TOC]]
+[[toc]]
 
 ## Care labor produces people
 
@@ -20,8 +20,7 @@ And they raise us from children to adults.
 We gain our social identity through the care we give and receive.
 A parent is a parent because they care for a child.
 A subject requires a king.
-And slavery produces a luxury class.
-In other words, slaves allow their masters to become elites.
+And slavery produces a luxury class, meaning that slaves allow their masters to become elites.
 
 ## Slavery is the theft of care labor
 
@@ -35,7 +34,7 @@ They cook.
 They wash and clothe and groom the masters.
 They raise the children.
 
-## Capturing societies typically turn war prisoners into (temporary) slaves
+## Capturing societies typically turn war prisoners into temporary slaves
 
 There are many examples of "capturing societies"...
 
@@ -58,13 +57,14 @@ Each group treated slaves differently, but shared two key commonalities...
 
 For the Romans, for example, all war prisoners were considered dead.
 Some lost their heads.
-Others lost their kin and community.
+Others lost kin and community.
 
 When a prisoner became a slave their social ties were severed.
-And they were prevented (as much as possible) from making new social connections.
+And they were prevented from making new social connections.
+
 Because they are dominated by the will of their master, slaves can't make promises.
 They cannot even make promises to themselves.
-Slaves are thus prevented from self-governance, and making the sort of social commitments that establish community.
+Slaves are thus prevented from self-governance and making the sort of social commitments that establish community.
 
 ## Slaves can be freed
 
@@ -73,7 +73,7 @@ This was typical for many capturing societies.
 
 Slaves were adopted, like pets.
 They were fed and instructed in the proper ways of civilization.
-If they could successfully integrate into the new culture, the slave could become full members of their adopted family.
+If they could successfully integrate into the new culture, the slave could become a full member of their adopted family.
 
 The Wendat and Kwakiutl differed, however, in that the Kwakiutl kept a large number of slaves in permanent limbo.
 The Wendat, in contrast, had no permanent slaves.
@@ -81,13 +81,14 @@ The Wendat, in contrast, had no permanent slaves.
 After a trial period of domestication, Wendat prisoners either became full members of the family, or were tortured to death by the entire community.
 This torture is surprising because the Wendat even didn't spank their children.
 Yet even the children participated in this collective act of shocking violence.
-This moment of extreme, communal violence was meant to prevent individual acts of violence, and to keep the perpetual violence of slavery out of family life.
+
+Graeber and Wengrow hypothesize that this moment of extreme, communal violence was meant to prevent individual acts of violence, and to keep the perpetual violence of slavery out of family life.
 
 ## Corvée
 
 Distinction: corvée is not necessarily slavery.
 
-For example, corvée in [Uruk](/uruk) may have been a festival of shared work on public projects, like temples and irrigation canals.
+For example, corvée in [Uruk](/uruk) was more like a festival of shared work on public projects, like temples and irrigation canals.
 This required work came with feasts and debt forgiveness--so, in contrast to slavery, it freed folks from bondage.
 
 ## Violence persists by confusing itself with care {#persists}
@@ -110,8 +111,6 @@ They "cared for" the people, and the people "cared for" them.
 The French people produced the luxury that defined the French court.
 The Egyptian people built the Pyramids to honor the dead Pharaoh.
 In return, French Kings and Egyptian Pharaohs acted as conduit to the spiritual realm on behalf of their people.
-They hosted feasts and debt relief.
-And they offered moral instruction through torture.
 
 Like the Wednat, the French also practiced public torture.
 For the French, however, the torture was construed as care.

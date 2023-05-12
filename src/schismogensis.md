@@ -6,15 +6,18 @@ next: /freedom
 
 # Culture is what we don't do
 
+Economists/technological determinists and post-structuralists/cultural determinists are both wrong.
+We may be constrained by environment, chance, technology, and language.
+But none of these factors is determinative.
+In other words, culture isn't determined, it's chosen.
+
 Humans in the past traveled.
 It's silly to think that they would have been unaware of the technologies used by neighbors less than a month's travel away.
 
 So why didn't everyone adopt the same useful tools?
-Because cultures often define themselves in opposition to their neighbors.
+The answer is: because cultures often define themselves in opposition to their neighbors.
 
 This definition by difference is called *schismogensis*.
-
-We can see it today in the increasingly sharp cultural divides between democrats and republicans.
 
 For example, Alaskan Athabaskans largely refused to use Inuit kayaks.
 And conversely, Inuit folks long refused to wear the Athabaskans' snowshoes.
@@ -31,12 +34,9 @@ Luxury | Frugality
 Cosmopolitanism | Xenophobia
 Democracy | Oligarchy
 
-Economists/technological determinists and post-structuralists/cultural determinists are both wrong.
-We may be constrained by environment, chance, technology, and language.
-But none of these factors is determinative.
-Culture isn't determined, it's chosen.
+We can also see this effect today in the increasingly sharp cultural divides between U.S. Democrats and Republicans.
 
-More:
+More examples:
 
 - [The Upper vs. Lower Fertile Crescents](/fertile-crescents)
 - [Heroic vs. Urban Civilizations](/charisma#heros)

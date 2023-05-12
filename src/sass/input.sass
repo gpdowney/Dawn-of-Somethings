@@ -1,21 +1,21 @@
 $bg-color: #222
-$link-color: #fab574
+$link-color: #81cefb
 $font-color: #fff
 $line-color: #ccc
 $highlight: #fda0fd
 
 @font-face
   font-family: 'Nabla'
-  src: url('/dawn/fonts/Nabla-Regular.ttf') format('truetype')
+  src: url('/fonts/Nabla-Regular.ttf') format('truetype')
   display: swap
 
 @font-face
   font-family: 'Raleway'
-  src: url('/dawn/fonts/Raleway-VariableFont_wght.ttf') format('truetype')
+  src: url('/fonts/Raleway-VariableFont_wght.ttf') format('truetype')
 
 @font-face
   font-family: 'Domine'
-  src: url('/dawn/fonts/Domine-VariableFont_wght.ttf') format('truetype')
+  src: url('/fonts/Domine-VariableFont_wght.ttf') format('truetype')
 
 *
   background-color: $bg-color
@@ -49,11 +49,7 @@ header, nav
 
 header
   margin: -1.5rem 0
-  padding: 0 3rem
   font-family: Nabla, Domine, serif
-
-header > h1 > a
-  text-decoration: none
 
 nav
   position: sticky
@@ -77,6 +73,7 @@ footer
   font-family: Raleway, sans-serif
   text-align: center
   padding: .25em
+  border-top: 1px solid $line-color
 
 blockquote
   padding: 0 1rem
@@ -96,6 +93,16 @@ td, th
   font-weight: 600
   margin: 1rem 0
 
-.toc + ul > li > ul
+.toc + ul > li > ul, .table-of-contents > ul > li
   list-style: '+  '
   font-weight: 400
+
+.table-of-contents::before
+  content: 'Topics on this page'
+  font-weight: 600
+
+.table-of-contents
+  border: 1px solid $line-color
+  padding: .75rem .75rem 0 .75rem
+  max-width: max-content
+  justify-content: center

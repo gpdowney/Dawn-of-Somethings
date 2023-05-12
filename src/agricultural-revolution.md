@@ -30,18 +30,16 @@ Feudal serfs worked less than 8 hours/day.
 Hunter-gatherers of the deserts of Namibia and Botswana work only 2-4 days per week, despite the harsh environment.
 The !Kung and other contemporary hunter-gatherers consciously reject agriculture to preserve their leisure.
 
-Ethnographer of !Kung Marshall Salinas and other time allocation studies in the 1960s.
+(Ethnographer of !Kung Marshall Salinas and other time allocation studies in the 1960s.)
 
 ## Agriculture didn't force us into cities
 
-The standard story is that cities emerged from agriculture's surplus of food and the increasing concentration of peoples in a fixed place.
+The standard story is that cities emerged from agriculture's surplus of food and the increasing concentration of people in a fixed place.
+
 If anything, this idea is backwards.
 It would be more accurate to say that cities caused agriculture.
 
-Early cities were where the first agricultural experiments happened -- garden plots, semi-cultivated food forests, alluvial flood retreat farming, each of these emerged within established cities like...
-
-- [Çatalhöyük](/fertile-crescents#lower), and
-- [Cucuteni-Tripolye](/cucuteni-tripolye)
+Cities hosted the first agricultural experiments. Garden plots, semi-cultivated food forests, alluvial flood retreat farming, each of these emerged within established cities like [Çatalhöyük](/fertile-crescents#lower), and [Nebelivka](/cucuteni-tripolye).
 
 But there is no necessary connection between urbanism and agriculture.
 The historical records shows cities without farming, and farming without cities.

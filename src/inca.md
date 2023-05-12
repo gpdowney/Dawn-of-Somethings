@@ -23,6 +23,11 @@ Hence, the Incan drive to expansion.
 Subjects were expected to pay mit'a, a tribute of labor, gold, and food.
 But since his power was so individual, so centralized in his person, the Sapa Inca couldn't delegate authority.
 So the Inca built a monumental road network, and the Sapa Inca was always on the move, to collect mit'a.
-Local administrators (ayllu) tracked the mit'a, but the system was uneven, offering opportunities for local, collective decision making.
+Ayllu (local administrators) tracked the mit'a, but the system was imperfect, offering opportunities for local flexibility, collective decision making.
+
+> Note: this seems inconsistent with Graeber and Wengrow's point that: [Inca Ayllus formalized equality into oppression](/bureaucracy#ayllus).
+>
+> Perhaps I've misunderstood?
+> Or perhaps, over time, the Ayllu system became more formalized and the Inca got closer to being a 3rd-order state?
 
 ### Next: [Indigenous Americans of the Pacific Coast](/pacific)

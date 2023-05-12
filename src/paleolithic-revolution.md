@@ -6,24 +6,29 @@ next: /fertile-crescents
 
 # the Upper Paleolithic Revolution and Sapient Paradox aren't real
 
-The "Upper Paleolithic Revolution" happened around 45,000 BCE in N. Europe.
-For some time, this was the oldest evidence of human culture.
+The first early signs of human culture were found in Northern Europe.
+Cave paintings and such dated back to 45,000 BCE.
+Given the lack of earlier evidence of culture, archeologists announced this as the "Upper Paleolithic Revolution."
 
-The gap in time between our capacity to make culture and the first evidence of it, puzzled archeologists.
-They called this the "Sapient Paradox."
+Archeologists wondered why there weren't earlier signs of human culture,
+since humans had the same basic biological capacity for ten times as long.
+
+See: [500,000 years of experimentation](/diverse#500)
+
+They called this puzzle the "Sapient Paradox."
 Answers tended to credit something special about northern European peoples.
-Europeans have used this to claim that they are the protectors of human culture and civilization.
+Racists have used this to claim that Europeans are the protectors of human culture and civilization.
 
-The climate may have been a factor.
+Others have suggested that climate may have been a factor.
 There was a little Ice Age in Europe 45,000 BCE years ago.
 People probably spent a lot of time inside.
 
-But this isn't actually the first evidence of culture.
-In Africa, we've recently found symbolic representation going back to at least 100,000 BCE.
+But it turns out the paradox isn't a paradox at all.
+This isn't actually the first evidence of culture.
+More recent archeological digs in Africa have found symbolic representation going back to at least 100,000 BCE.
 And there's good reason to think we'll find older evidence, as archeologists haven't spent much time in much of Africa.
 
-The real explanation for the Sapient Paradox is that European governments are rich.
-Europeans can afford to do archeology.
-45,000 BCE is just when humans got to Europe.
+There was no revolution, 45,000 BCE is just when humans got to Europe.
+The real explanation for the Sapient Paradox is that European governments are rich, so Europeans have been doing most of the archeology.
 
 ### Next: [Upper and Lower Fertile Crescents](/fertile-crescents)

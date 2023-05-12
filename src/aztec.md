@@ -7,31 +7,35 @@ next: /inca
 # Aztec
 
 Circa 1150 CE, the Mexica people migrated from Aztlán, in the south, to Mexico (later named for them).
-They became the Aztec triple alliance and found Tenochtitlan (Teno cheet lan) in lake Texcoco.
+They founded Tenochtitlan in lake Texcoco and became the Aztec triple alliance.
 Tenochtitlan was modeled on, and only a days walk from [Teotihuacan](/teotihuacan).
+
+## Chichimec ancestors
 
 Nahuatl speakers, including the Aztec and Tlaxcalans, claimed the Chichimec as holy ancestors.
 
 The Chichimec were an ascetic desert and forest folk who rejected corn, clothes, and religion.
 
-Rousseau's description of the State of Nature is remarkably similar to Aztec descriptions of the Chichimec.
-He may have plagiarized the idea.
+> Note: Rousseau's description of the State of Nature is remarkably similar to Aztec descriptions of the Chichimec.
+>
+> See, [Enlightenment books were often about Americans](/enlightenment).
 
-## Tenochtitlan v. Tlaxcala v. Cortés
+## Tenochtitlan v. Tlaxcala
 
-Circa 1560 CE, when Cortés arrived, Tenochtitlan and Tlaxcala (Te la scala) were two rival cities.
+Circa 1560 CE, when Cortés arrived, Tenochtitlan and Tlaxcala were two rival cities.
 Tenochtitlan was the Sparta to Tlaxcala's Athens.
 Like Athens, Tlaxcala was a relatively unique democracy amidst oligarchies.
 
-Tlaxcala's democracy is evidence by (a) Cortés, Motolinía, and other Spanish reports (b) the urban plan.
+Tlaxcala's democracy is evidenced by (a) Cortés, Motolinía, and other Spanish reports (b) the urban plan.
 Tlaxcala featured grand plazas (for public debate) and universally high quality housing.
 There was no palace or ball court.
-In other Aztec cities, the ball court was the site of ritual sacrifice.
 
 According to the reports of Motolinía, at Cholula and other Aztec cities leadership, the Teuctli, rotated between elites.
 Aztec leaders, like Moctezuma, who were merely speakers for a confederation of noble families.
 But at Tlaxcala, the Teuctli were elected.
 The Tlaxcalans also recognized that elections aren't democracy.
+
+## Tlaxcala agreed to help Cortés defeat the Aztec
 
 At first, Tlaxcala resisted Cortés.
 They lost every battle with the Spanish, but the Spanish force was small, so they were winning by attrition.
@@ -53,7 +57,9 @@ The ambush failed.
 
 Without the Tlaxcalans, Cortés and his 1000 Spaniards could never have captured the 250,000 Aztecs of Tenochtitlan.
 
-The Aztec (and [Inca](/inca)) empires were ideal subjects for colonization because they offered
+## The Aztec were vulnerable to colonization
+
+The Aztec (and [Inca](/inca)) empires were ideal subjects for colonization because they had:
 
 1. Identifiable kings and capitals that could be captured.
 2. People accustomed to obedience, and the infrastructure of social control.

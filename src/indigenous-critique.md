@@ -14,25 +14,25 @@ Indigenous Americans believed that Europeans made themselves into slaves because
 Later, after he visited Europe, Kandiaronk also criticized Europeans systems of property and material inequality.
 But his initial criticism, centering freedom, which the left has since neglected, might have been more potent and worth returning to.
 
-(Sam Moyn disagrees, claiming that the failure of the human rights movement has been its lack of insistence on material equality. See: Moyn, Not Enough (2019).)
+[[toc]]
 
 ## Americans thought Europeans were bad listeners, greedy, competitive, and cruel
 
-The Mi'kmaq (Mee g-mahk) and Wendat were very different societies.
+The Mi'kmaq and Wendat were very different societies.
 - Mi'kmaq were egalitarian hunter gatherers.
 - Wendat had formal offices and war-prisoner-slaves.
 
 Despite their differences, they criticized Europeans for the same reasons.
 
-Europeans were unskilled at conversation and debate
-Europeans had more stuff, but less comfort and time.
-They refused to share excess food with the hungry.
-And European settlements were full of beggars, who they were cruel to.
+- Europeans were unskilled at conversation and debate.
+- Europeans had more stuff, but less comfort and time.
+- They refused to share excess food with the hungry.
+- And European settlements were full of beggars, who they were cruel to.
 
 ## American freedom depended on mutual aid
 
 Iroquois, and other Americans of the Great Lakes, guaranteed each other autonomy.
-They provided enough material security, that no one was subordinated to another.
+They provided enough material security that no one was subordinated to another.
 
 This doesn't mean they were egalitarian.
 
@@ -40,16 +40,15 @@ For example, the Wendat had significant material inequality.
 Men hoarded jewelry and “wampum.”
 This wealth was hoarded in order to be given away at big events (like criminal trials, since they didn't have prisons).
 
-Crucially, however, that material wealth couldn’t be converted in power over other people.
+Crucially, however, that material wealth couldn’t be converted into power over other people.
 Food couldn’t be hoarded or denied.
 
-This American freedom was a positive freedom.
-Every individual's freedom depends upon and increases with everyone else's freedom.
-Everyone has to be free for anyone to be free.
+This American freedom was a **positive freedom** in the sense that your freedom increases my freedom.
+In other words, the Wendat understood that everyone has to be free for anyone to be free.
 
-## Everyone agreed the Americans were more free
+## Everyone agreed the Americans were more free {#more-free}
 
-The Jesuits also agreed that the Americans were more free.
+The Jesuits agreed that the Americans were more free.
 They just thought that freedom was bad.
 
 Jesuits worried that Americans were too free to become Christians.
@@ -64,11 +63,11 @@ Europeans were surprised that Americans lacked jails and criminal punishment.
 
 For the Iroquois and Wendat there was no individual punishment.
 Even murderers weren’t punished.
-Instead, their entire family had to pay compensation.
+Instead, the murderer's family had to pay compensation.
 Some European observers admitted that this was a more effective method of deterring crimes.
 But they opposed liberty on principle.
 
-In his dialog with Kandiaronk (American, Wendat), Lahontan (European, France) suggests that criminal punishment and the threat of damnation is necessary, else murder and robbery would make society miserable.
+In his dialog with Kandiaronk (Wendat), Lahontan (French) suggests that criminal punishment and the threat of damnation is necessary, else murder and robbery would make society miserable.
 
 Kandiaronk replies:
 
@@ -85,8 +84,9 @@ Europeans were free to dispose of their property, including land and people, as 
 More: [Slavery preserves violence by embedding it in social reproduction](/slavery)
 
 This was the freedom to be greedy and destructive.
-This was a negative freedom, in the sense that it was 0-sum with the freedom of others.
 
 More: [Abusus, the right to destroy](/property#abusus)
+
+This was a **negative freedom**, in the sense that it was 0-sum with the freedom of others.
 
 ### Next: ["Social Equality" was invented to neutralize Indigenous American criticism of European society](/evolutionism)

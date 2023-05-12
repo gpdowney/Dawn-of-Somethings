@@ -7,7 +7,7 @@
 </head>
 <body>
   <header>
-    <h1><a href='/'>the Dawn of Somethings</a></h1>
+    <h1>the Dawn of Somethings</h1>
   </header>
   <nav>
     <a href='{{ prev }}'>&lt;</a>
@@ -19,12 +19,16 @@
     {{ content | safe }}
   </main>
   <footer>
+    <p>
     {% if page.fileSlug === '' %}
-      <p><a href='https://github.com/gpdowney/Dawn-of-Somethings/blob/main/src/index.md'>Suggest edits to this page</a></p>
+      <a href='https://github.com/gpdowney/Dawn-of-Somethings/blob/main/src/index.md'>
     {% else %}
-      <p><a href='https://github.com/gpdowney/Dawn-of-Somethings/blob/main/src/{{ page.fileSlug }}.md'>Suggest edits to this page</a></p>
+      <a href='https://github.com/gpdowney/Dawn-of-Somethings/blob/main/src/{{ page.fileSlug }}.md'>
     {% endif %}
-    <p>More Feedback? <a href='mailto:dawn@gpdetc.org'>dawn@gpdetc.org</a></p>
+    Suggest edits to this page</a> or send a note to <a href='mailto:dawn@gpdetc.org'>dawn@gpdetc.org</a></p>
+    <p>All original content licensed under <a rel="license"
+    href="https://creativecommons.org/licenses/by-sa/4.0/">
+    CC BY-SA 4.0</a></p>
   </footer>
 </body>
 </html>

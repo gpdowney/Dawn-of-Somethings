@@ -13,13 +13,16 @@ module.exports = function(eleventyConfig) {
   // Passthrough for fonts
   eleventyConfig.addPassthroughCopy("src/fonts");
 
-  // add markdown-it plugins for anchors and attributes
+  // add markdown-it plugins
   eleventyConfig.amendLibrary("md", mdLib => mdLib.use(markdownItAnchor))
   eleventyConfig.amendLibrary("md", mdLib => mdLib.use(markdownItAttrs))
+
   // include and change TOC settings
   eleventyConfig.amendLibrary("md", mdLib => mdLib.use(markdownItTOC, {"includeLevel": [2,2]}))
+
   // include <base> plugin
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+
   return {
     // When a passthrough file is modified, rebuild the pages:
     passthroughFileCopy: true,

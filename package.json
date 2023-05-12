@@ -9,7 +9,7 @@
     "build:11ty": "npx @11ty/eleventy",
     "build:sass": "sass --no-source-map --style=compressed src/sass/input.sass src/style.css",
     "watch:sass": "sass -w --no-source-map src/sass/input.sass src/style.css",
-    "start": "npm-run-all --parallel watch:*",
+    "start": "NODE_ENV=dev npm-run-all --parallel watch:*",
     "build": "NODE_ENV=production npm-run-all build:*"
   },
   "keywords": [],

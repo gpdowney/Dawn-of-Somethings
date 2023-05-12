@@ -10,21 +10,24 @@ Circa 1050 CE, Cahokia, along the Mississippi river in the "American Bottom", wa
 
 Cahokia was a 2nd-order state, combining violence and charisma.
 
-Cahokia's reach extended from Virginia to Minnesota, often through violent conflict.
+Cahokia's reach extended from Virginia to Minnesota.
+They expanded control through violent colonization.
 
 Cahokia was in a fertile area for maize, but also a swamp.
 In the Mississippian religion, these watery places were connected to the chaotic underworld.
 And Cahokia may have began as a place of pilgrimage.
 
-Cahokia's elite emerged through a sport, chunkey.
+Cahokia played a violent sport, chunkey.
 Not unlike the Olmec Ball Games.
-And commoners could win their way to nobility through heroic achievement in war.
+Commoners could win their way to nobility through heroic achievement in war or chunkey.
 
 Around 1350 CE, Cahokia and it's tributary towns began to depopulate.
 Something happened that left bad memories.
 By 1400 CE, the entire region, the "American Bottom," despite being fertile, was abandoned.
 
-This pattern of depopulation is typical of many early social movements, which were often, literally, movements of people.
+> Note: This pattern of depopulation is typical of many early social movements, which were often, literally, movements of people.
+>
+> See: the first freedom is the [freedom to move](/freedom).
 
 The Cahokian collapse left a lasting mark on Indigenous Americans.
 
