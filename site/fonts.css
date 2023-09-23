@@ -1,0 +1,33 @@
+@font-face {
+    font-family: b612;
+    src: url('../fonts/B612-Regular.ttf');
+}
+
+@font-face{
+    font-family:"Nabla";
+    src:url("../fonts/Nabla-Regular.ttf") format("truetype");
+    display:swap
+}
+
+@font-face{
+    font-family:"Raleway";
+    src:url("../fonts/Raleway-VariableFont_wght.ttf") format("truetype")
+}
+
+@font-face{
+    font-family:"Domine";
+    src:url("/dawn/fonts/Domine-VariableFont_wght.ttf") format("truetype")
+}
+
+*{
+    font-family: b612, Menlo, 'Courier New', Courier, monospace !important;
+}
+
+.fa{
+    font-family: "Font Awesome 6 Free" !important;
+}
+
+#mkdocs-terminal-site-name a, #mkdocs-terminal-site-name{
+    font-family: Nabla !important;
+    font-size: 2rem;
+}

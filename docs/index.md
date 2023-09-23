@@ -20,7 +20,7 @@ Making these notes helped motivate me to finally get through the book.
 I'm sharing them with you in the hopes of making the fresh and challenging ideas of *the Dawn of Everything* more accessible.
 
 Like most readers of the *Dawn of Everything*, I'm not an expert on anthropology or archeology.
-If you think anything here is incorrect, whether you think I've misunderstood Graeber and Wengrow, or whether you think the Davids are wrong, please let me know. 
+If you think anything here is incorrect, whether you think I've misunderstood Graeber and Wengrow, or whether you think the Davids are wrong, please let me know.
 
 You can email <dawn@gpdetc.org> with any feedback, including additions, corrections, compliments, or criticisms.
 
