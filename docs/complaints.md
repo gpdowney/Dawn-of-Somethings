@@ -27,14 +27,17 @@ Rather than connecting the details or guiding a way forward, they tend to repeat
 
 ## Whiney
 
-One of those frequently repeated points is some version of:
+One of those frequently repeated points is something like:
 
 > Mainstream academics are stupid and lazy.
 
 This academic bickering is boring and confusing.
-Reading the book often felt like having one of those awful conversation with a friend who's complaining about people I don't know.
-I sympathize, but the more they complain, the less I trust them.
+Reading the book often felt like having one of those awful conversation with a friend who's complaining about people you don't know.
+You might sympathize at first, but the more they complain, the less you trust them.
 
-My general heuristic is: if I think everyone else is being an idiot, there's a good chance I'm the idiot.
+This bickering also undermined one of the Davids' other frequently repeated points: that they are merely summarizing recent academic research.
 
-Additionally, the bickering undermined another of the Davids' frequently repeated points: that they are merely summarizing recent academic research.
+## Still Worth Reading
+
+That said, the book is full of wonderful stories and insights.
+If you have the time and patience, it's worth reading.

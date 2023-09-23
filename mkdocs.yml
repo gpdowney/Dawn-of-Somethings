@@ -1,9 +1,12 @@
 site_name: the Dawn of Somethings
-site_url: https://gpdowney.github.io
+copyright: CC-BY-SA 4.0
+site_author: Graham Downey
+extra:
+  version: 2.0
+
 nav:
   - Home: 
     - Index: index.md
-    - About: about.md
     - Complaints: complaints.md
     - External resources: links.md
   - We Can Choose to Live Differently:
@@ -55,7 +58,7 @@ theme:
     - footer.prev_next
     - navigation.top.cursor_animation.hide
     - revision.date
-  custom_dir: custom_theme/
+  custom_dir: overrides/
   palette: dark
 extra_css:
   - fonts.css
