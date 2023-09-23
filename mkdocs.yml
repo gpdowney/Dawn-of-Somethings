@@ -59,7 +59,6 @@ theme:
     - footer.prev_next
     - navigation.top.cursor_animation.hide
     - revision.date
-  custom_dir: overrides/
   palette: dark
 extra_css:
   - fonts.css
