@@ -1,0 +1,69 @@
+site_name: the Dawn of Somethings
+copyright: CC-BY-SA 4.0
+site_author: Graham Downey
+extra:
+  version: 2.0
+
+nav:
+  - Home: 
+    - Index: index.md
+    - Complaints: complaints.md
+    - External resources: links.md
+  - We Can Choose to Live Differently:
+    - Index: live-differently.md
+    - Our past is more diverse than our present: diverse.md
+    - The "agricultural revolution" was slow and reversible: agricultural-revolution.md
+    - Scale doesn't determine social organization: scale.md
+    - Seasonality shows our capacity to deliberately change how we live: seasonality.md
+    - Eccentricity is socially useful: eccentricity.md
+    - Matriarchy isn't rare: matriarchy.md
+    - Culture is what we don't do: schismogensis.md
+    - Three fundamental freedoms... movement, disobedience, and imagination: freedom.md
+  - Indigenous American critics sparked the European Enlightenment: 
+    - Index: enlightenment.md
+    - Indigenous American criticism was (initially) about freedom, not equality: indigenous-critique.md
+    - Social 'Equality' was invented to neutralize the Indigenous American criticism of European society: evolutionism.md
+    - Equality is vague and bad: equality.md
+  - Origins of Domination:
+    - Index: domination.md
+    - Slavery preserves violence by embedding it in social reproduction: slavery.md
+    - Private property first emerged in sacred rituals: property.md
+    - Sovereignty is the control of violence: sovereignty.md
+    - Charisma is the control of legitimacy: charisma.md
+    - Bureaucracy is the control of information: bureaucracy.md
+  - Peoples:
+    - Index: peoples.md
+    - the Upper Paleolithic Revolution and Sapient Paradox aren't real: paleolithic-revolution.md
+    - Upper and Lower Fertile Crescents: fertile-crescents.md
+    - Uruk: uruk.md
+    - Cucuteni-Tripolye: cucuteni-tripolye.md
+    - Indus Valley Civilization: indus-valley.md
+    - Pharaonic Egypt: egypt.md
+    - Olmec: olmec.md
+    - Chavín de Huántar: chavin.md
+    - Hopewell Interaction Sphere: hopewell.md
+    - Teotihuacan: teotihuacan.md
+    - Classical Maya: maya.md
+    - Théoloël: theoloel.md
+    - Cahokia: cahokia.md
+    - Bali: bali.md
+    - Aztec: aztec.md
+    - Inca: inca.md
+    - Americans of the Pacific Coast: pacific.md
+
+theme:
+  name: terminal
+  features:
+    - navigation.side.indexes
+    - footer.prev_next
+    - navigation.top.cursor_animation.hide
+    - revision.date
+  custom_dir: overrides/
+  palette: dark
+extra_css:
+  - fonts.css
+plugins:
+  - search
+  - git-revision-date
+markdown_extensions:
+  - attr_list
